@@ -25,7 +25,7 @@ Gold is used for trading just as Stock resources. However, unlike Stock resource
 Attitude works as a reputation indicator and determines the relationship between Townies and Natives. Trading with the Natives and giving them gifts increases the Attitude. Attacking Natives' territories decreases the Attitude. Low Attitude makes Natives occupy the territory and prevent Player from controlling or using it. High Attitude unlocks new trading possibilities with Natives and motivates Natives to build Temples, which will increase the resource production efficiency. Shipyard is affected by Attitude as well: low Attitude allows to send pirate ships into raids and high Attitude allows to send trading ships for trading.
 Time resource is shown as day count. One day passes after another, like in real life. Each 10 days some amount of Stock resources is taken as upkeep for maintaining the work of the buildings. Trading ships periodically come and stay in Harbor for 5 days. Some mission objectives in campaign are time-limited which means they must be done in certain amount of days. Player has only one way to affect the Time – by using the "fast-forward" function. It leaps the game to 5 days into the future.
 
-Structures
+## Structures
 Harbor. The harbor is the main building and it cannot be demolished. All resources have to be brought here before they can be sold to a merchant ship. All building and upkeep costs are automatically taken from the harbor storage. Besides, the harbor is able to employ a fisherman to catch fish from the sea.
 Forester. Harvests wood in the forest or cuts the wood into handy pieces of lumber.
 Farm. Produces sugarcane, tobacco or cute little piggies for meat production.
