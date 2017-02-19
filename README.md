@@ -34,5 +34,5 @@ All level resources can be divided into Stock resources, Gold, Attitude and Time
 - Distillery. Produces Rum.
 - Fort. Recruits soldiers.
 - Shipyard. Builds merchant or pirate ships.
-Village. Here you can trade resources with the natives or send them gifts to gain their favor.
-Temple. Is constructed in your honor by the natives. It influences the production of a specific resource in a positive way.
+- Village. Here you can trade resources with the natives or send them gifts to gain their favor.
+- Temple. Is constructed in your honor by the natives. It influences the production of a specific resource in a positive way.
